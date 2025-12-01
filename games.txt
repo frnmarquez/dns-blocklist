@@ -32,14 +32,18 @@
 ||friv.com^
 ||frivclassic.com^
 ||gameflare.com^
+||isladejuegos.com^
 ||kizi-mizi.com^
 ||kizi.com^
 ||lagged.com^
 ||minijuegos.com^
 ||minijuegos.mx^
 ||nick.co.uk^
+||pocoyo.com^
 ||poki-games.com^
 ||poki.com^
+||stormfuryeternalheroes.my^
+||wordwall.net^
 ||y8-games.com^
 ||y8.com^
 
@@ -63,6 +67,7 @@
 ||rbxcdn.com^
 ||riotgamespatcher-a.akamaihd.net^
 ||roblox.com^
+||rockstargames.com^
 ||ubisoft-uplay-savegames.s3.amazonaws.com^
 
 # — Sitios “unblocked games” comunes en entornos escolares
@@ -8305,6 +8310,7 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+
 
 
 
