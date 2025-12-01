@@ -1,6 +1,6 @@
 ! Title: Custom School Gaming Blocklist
 ! Description: Lista personalizada + pública para bloquear juegos online en una escuela / red educativa
-! Version: 2025.11.28
+! Version: 2025.12.01
 ! Syntax: Pi-Hole
 ! Number of entries:
 
@@ -44,6 +44,66 @@
 # — Plataformas populares / juegos instalables / multiplayer
 ||roblox.com^
 ||rbxcdn.com^
+
+||minecraft.net^
+||mojang.com^
+
+||fortnite.com^
+||epicgames.com^
+
+# — Steam
+||steampowered.com^
+||steamcommunity.com^
+||steamstatic.com^
+||steamcontent.com^
+||s.team^
+
+# — Ubisoft
+||ubisoft.com^
+||uplay.com^
+
+# — Electronic Arts / Origin
+||ea.com^
+||origin.com^
+
+# — Blizzard / Battle.net
+||blizzard.com^
+||battle.net^
+
+# — Rockstar Games
+||rockstargames.com^
+||socialclub.rockstargames.com^
+
+# — Riot Games
+||riotgames.com^
+||leagueoflegends.com^
+||valorant.com^
+||playvalorant.com^
+||riotcdn.net^
+
+# — GOG
+||gog.com^
+||gogcdn.com^
+
+# — Consolas (sin live.com)
+||playstation.com^
+||sonyentertainmentnetwork.com^
+
+||nintendo.com^
+||nintendo.net^
+
+||xbox.com^
+||xboxlive.com^
+||xboxservices.com^
+
+# — Otros servicios relacionados a gaming
+||curseforge.com^
+||overwolf.com^
+||faceit.com^
+||faceit-cdn.net^
+
+||roblox.com^
+||rbxcdn.com^
 ||minecraft.net^
 ||mojang.com^
 ||fortnite.com^
@@ -67,6 +127,48 @@
 ||fbcdn.net^
 ||gamejolt.com^
 ||itch.io^
+
+# --- BLOQUEO DE CLOUD GAMING (Juego en la nube) ---
+||geforcenow.com^
+||nvidia.com/es-es/geforce-now^
+||play.geforcenow.com^
+||xbox.com/play^
+||xcloud.com^
+||gfn.nvidia.com^
+||luna.amazon.com^
+||cloud.google.com/solutions/gaming^
+||stadia.google.com^
+
+# --- BLOQUEO DE TIENDAS Y LAUNCHERS (Refuerzo) ---
+||store.steampowered.com^
+||cdn.steamstatic.com^
+||media.steampowered.com^
+||epicgames.com^
+||store.epicgames.com^
+||launcher-public-service-prod06.ol.epicgames.com^
+||origin-a.akamaihd.net^
+||ea.com^
+
+# --- JUEGOS MÓVILES POPULARES (Gacha y Battle Royale) ---
+# Free Fire & PUBG
+||ff.garena.com^
+||freefiremobile.com^
+||pubgmobile.com^
+||igamecj.com^
+||codm.activision.com^
+
+# Hoyoverse (Genshin, Star Rail)
+||hoyoverse.com^
+||starrails.com^
+||zenlesszonezero.com^
+||yuanshen.com^
+||bhsr.com^
+
+# Supercell (Clash Royale, Brawl Stars)
+||game.brawlstarsgame.com^
+||game.clashofclans.com^
+||game.clashroyaleapp.com^
+||inbox.supercell.com^
 
 # — INCLUSIÓN DE GAMES-BLOCKLIST (lista pública) — dominios + reglas de bloqueo general  
 ! Begin of games-blocklist from IREK-szef  
@@ -8255,3 +8357,5 @@
 ||zyngapoker.com^
 ||zyraffa.pl^
 ||zzstudios.com^
+
+
