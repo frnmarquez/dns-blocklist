@@ -36,6 +36,7 @@
 ||kizi.com^
 ||lagged.com^
 ||minijuegos.com^
+||minijuegos.mx^
 ||nick.co.uk^
 ||poki-games.com^
 ||poki.com^
@@ -8304,6 +8305,7 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+
 
 
 
