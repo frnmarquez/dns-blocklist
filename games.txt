@@ -4,188 +4,107 @@
 ! Syntax: Pi-Hole
 ! Number of entries:
 
-
 # — Bloqueo de juegos .IO y similares
+
 ||agar.io^
-||slither.io^
-||mope.io^
+||bonk.io^
+||diep.io^
+||ev.io^
 ||hole.io^
 ||krunker.io^
-||diep.io^
+||mope.io^
 ||paper.io^
 ||shellshock.io^
-||zombs.io^
-||ev.io^
-||bonk.io^
-||surviv.io^
-||wormax.io^
-||wormate.io^
-||snowball.io^
 ||skribbl.io^
+||slither.io^
+||snowball.io^
+||surviv.io^
+||wormate.io^
+||wormax.io^
+||zombs.io^
 
 # — Plataformas de juegos web / HTML5 / portales de minijuegos
-||poki.com^
-||poki-games.com^
-||kizi.com^
-||kizi-mizi.com^
+
+||addictinggames.com^
+||armorgames.com^
+||coolmathgames.com^
+||crazygames.com^
 ||friv.com^
 ||frivclassic.com^
-||minijuegos.com^
-||crazygames.com^
-||coolmathgames.com^
-||y8.com^
-||y8-games.com^
-||armorgames.com^
-||lagged.com^
 ||gameflare.com^
+||kizi-mizi.com^
+||kizi.com^
+||lagged.com^
+||minijuegos.com^
 ||nick.co.uk^
-||addictinggames.com^
+||poki-games.com^
+||poki.com^
+||y8-games.com^
+||y8.com^
 
 # — Plataformas populares / juegos instalables / multiplayer
-||roblox.com^
-||rbxcdn.com^
 
-||minecraft.net^
-||mojang.com^
-
-||fortnite.com^
+||blzddist1-a.akamaihd.net^
+||blzmedia-a.akamaihd.net^
+||cdn.akamai.steamstatic.com^
+||content1.steamstatic.com^
+||content2.steamstatic.com^
+||download.epicgames.com^
+||epicgames-download1.akamaized.net^
 ||epicgames.com^
-
-# — Steam
-||steampowered.com^
-||steamcommunity.com^
-||steamstatic.com^
-||steamcontent.com^
-||s.team^
-
-# — Ubisoft
-||ubisoft.com^
-||uplay.com^
-
-# — Electronic Arts / Origin
-||ea.com^
-||origin.com^
-
-# — Blizzard / Battle.net
-||blizzard.com^
-||battle.net^
-
-# — Rockstar Games
-||rockstargames.com^
-||socialclub.rockstargames.com^
-
-# — Riot Games
-||riotgames.com^
-||leagueoflegends.com^
-||valorant.com^
-||playvalorant.com^
-||riotcdn.net^
-
-# — GOG
-||gog.com^
+||fortnite.com^
+||gog-cdn.geforce.com^
 ||gogcdn.com^
-
-# — Consolas (sin live.com)
-||playstation.com^
-||sonyentertainmentnetwork.com^
-
-||nintendo.com^
-||nintendo.net^
-
-||xbox.com^
-||xboxlive.com^
-||xboxservices.com^
-
-# — Otros servicios relacionados a gaming
-||curseforge.com^
-||overwolf.com^
-||faceit.com^
-||faceit-cdn.net^
-
-||roblox.com^
-||rbxcdn.com^
 ||minecraft.net^
 ||mojang.com^
-||fortnite.com^
-||epicgames.com^
+||patches.rockstargames.com^
+||prod.cloud.rockstargames.com^
+||rbxcdn.com^
+||riotgamespatcher-a.akamaihd.net^
+||roblox.com^
+||ubisoft-uplay-savegames.s3.amazonaws.com^
 
 # — Sitios “unblocked games” comunes en entornos escolares
+
 ||unblocked-games.s3.amazonaws.com^
-||unblockedgames.gg^
 ||unblocked-games.sites.google.com^
+||unblockedgames.gg^
 ||unblockedgames66ez.net^
 ||unblockedgames69.com^
 
 # — Juegos móviles / casuales vía navegador
-||taptapking.com^
+
+||activision.com^
+||brawlstars.com^
+||callofduty.com^
+||candycrushsaga.com^
+||clashofclans.com^
+||clashroyale.com^
+||freefiremobile.com^
 ||gamepix.com^
+||garena.com^
+||haydaygame.com^
+||king.com^
+||levelinfinite.com^
 ||mobilegames.com^
+||nianticlabs.com^
 ||plays.org^
+||pokemongo.com^
+||pubgmobile.com^
+||supercell.com^
+||taptapking.com^
 
 # — Plataformas sociales o independientes de juegos
-||facebook.com/games^
+
 ||fbcdn.net^
 ||gamejolt.com^
 ||itch.io^
 
-# --- BLOQUEO DE CLOUD GAMING (Juego en la nube) ---
-||geforcenow.com^
-||nvidia.com/es-es/geforce-now^
-||play.geforcenow.com^
-||xbox.com/play^
-||xcloud.com^
-||gfn.nvidia.com^
-||luna.amazon.com^
-||cloud.google.com/solutions/gaming^
-||stadia.google.com^
-
-# --- BLOQUEO DE TIENDAS Y LAUNCHERS (Refuerzo) ---
-||store.steampowered.com^
-||cdn.steamstatic.com^
-||media.steampowered.com^
-||epicgames.com^
-||store.epicgames.com^
-||launcher-public-service-prod06.ol.epicgames.com^
-||origin-a.akamaihd.net^
-||ea.com^
-
-# --- JUEGOS MÓVILES POPULARES (Gacha y Battle Royale) ---
-# Free Fire & PUBG
-||ff.garena.com^
-||freefiremobile.com^
-||pubgmobile.com^
-||igamecj.com^
-||codm.activision.com^
-
-# Hoyoverse (Genshin, Star Rail)
-||hoyoverse.com^
-||starrails.com^
-||zenlesszonezero.com^
-||yuanshen.com^
-||bhsr.com^
-
-# Supercell (Clash Royale, Brawl Stars)
-||game.brawlstarsgame.com^
-||game.clashofclans.com^
-||game.clashroyaleapp.com^
-||inbox.supercell.com^
-
-# — INCLUSIÓN DE GAMES-BLOCKLIST (lista pública) — dominios + reglas de bloqueo general  
-! Begin of games-blocklist from IREK-szef  
+# — INCLUSIÓN DE GAMES-BLOCKLIST (lista pública) — dominios + reglas de bloqueo general
+! Begin of games-blocklist from IREK-szef
 ! Source: https://raw.githubusercontent.com/IREK-szef/games-blocklist/main/lists/Adblock-dns/games.txt
 
-||warsow.net^
-||huggingface.co^
-||solitair.ee^
-||memuplay.com^
-||clickspeedtest.com^
-||cpstest.org^
-||uwufufu.com^
-||watchdocumentaries.com^
-||symbaloo.com^
-||fancade.com^
-||turbowarp.org^
-||kizi.cm^
+!||poki.com^
 ||01-casino.com^
 ||01-chase.com^
 ||01-topsites.com^
@@ -1156,8 +1075,8 @@
 ||buzzmoica.fr^
 ||buzzville.com^
 ||buzzy.bees^
-||bwin.com^
 ||bwin.com.ar^
+||bwin.com^
 ||by-art.com^
 ||bytespiel.de^
 ||bzombie.com^
@@ -1209,8 +1128,8 @@
 ||cartonnetwork.pt^
 ||cartooncritters.com^
 ||cartoondollemporium.com^
-||cartoonnetwork.com^
 ||cartoonnetwork.com.br^
+||cartoonnetwork.com^
 ||cartoonnetwork.fr^
 ||cartoonnetwork.pl^
 ||cartoonnetworkasia.com^
@@ -1369,6 +1288,7 @@
 ||clickjogos.uol.com.br^
 ||clickmazes.com^
 ||clickshoot.fr^
+||clickspeedtest.com^
 ||clipplay.com^
 ||cliquojeux.com^
 ||clockworkmonster.com^
@@ -1482,6 +1402,7 @@
 ||cowboysandengines.com^
 ||cowboystown.com^
 ||cpmstar.com^
+||cpstest.org^
 ||cpx-ads.de^
 ||crad.visualdeer.com^
 ||craftclue.rocks^
@@ -2181,6 +2102,7 @@
 ||famousarcade.com^
 ||fanatical.com^
 ||fanatijuegos.com^
+||fancade.com^
 ||fandejuegos.com^
 ||fandom.com^
 ||fanfox.net^
@@ -2348,8 +2270,8 @@
 ||fletchfido.co.uk^
 ||flibus.com^
 ||flight1.100megabyte.com^
-||flightsim.com^
 ||flightsim.com.br^
+||flightsim.com^
 ||flightsimulatorarg.com.ar^
 ||flightsimworld.com^
 ||fliiby.com^
@@ -3104,6 +3026,7 @@
 ||hubanie.fr.st^
 ||hublo.com^
 ||hublo.julienmoya.com^
+||huggingface.co^
 ||hugolescargot.com^
 ||huluwatcher.com^
 ||human-age.com^
@@ -3165,9 +3088,9 @@
 ||ijeux.org^
 ||ijuegos37.com^
 ||ijy.cc^
-||ikariam.com^
 ||ikariam.com.br^
 ||ikariam.com.ve^
+||ikariam.com^
 ||ikariam.es^
 ||ikariam.fr^
 ||ikariam.gr^
@@ -3959,8 +3882,8 @@
 ||jogarjogosonline.com.br^
 ||jogaronline.net^
 ||jogatina.com^
-||jogg.com^
 ||jogg.com.br^
+||jogg.com^
 ||jogojogar.com^
 ||jogolandia.com.br^
 ||jogomedia.com^
@@ -4094,10 +4017,10 @@
 ||juegos.aol.com^
 ||juegos.canalquo.com^
 ||juegos.ciudad.com.ar^
-||juegos.com^
 ||juegos.com.ar^
 ||juegos.com.es^
 ||juegos.com.py^
+||juegos.com^
 ||juegos.diariomadrid.eu^
 ||juegos.donmegabite.com^
 ||juegos.enfemenino.com^
@@ -4219,8 +4142,8 @@
 ||juegosipo.com^
 ||juegosjava.com^
 ||juegosjuegos.asia^
-||juegosjuegos.com^
 ||juegosjuegos.com.pe^
+||juegosjuegos.com^
 ||juegosjuegos.mx^
 ||juegosjuegos.tv^
 ||juegosjuegos.ws^
@@ -4310,12 +4233,12 @@
 ||juganding.com^
 ||jugandojuegos.com^
 ||jugandonline.net^
-||jugandoonline.com^
 ||jugandoonline.com.ar^
+||jugandoonline.com^
 ||jugar-juegos-online.com^
 ||jugar-juegos.net^
-||jugar.com^
 ||jugar.com.ar^
+||jugar.com^
 ||jugar.net^
 ||jugar.ya.com^
 ||jugarchicas.com^
@@ -4453,6 +4376,7 @@
 ||kizi-jeux.com^
 ||kizi-mizi.pl^
 ||kizi.cc^
+||kizi.cm^
 ||kizi.com^
 ||kizi.info^
 ||kizi.me.uk^
@@ -5017,6 +4941,7 @@
 ||meinespiele.net^
 ||melafo.com^
 ||memozor.com^
+||memuplay.com^
 ||menato.net^
 ||meowbeast.com^
 ||merc.zone^
@@ -5036,8 +4961,8 @@
 ||metaboli.fr^
 ||metacritic.com^
 ||metajuegos.com^
-||metaldamage.com^
 ||metaldamage.com.pt^
+||metaldamage.com^
 ||metaldamage.de^
 ||metaldamage.es^
 ||metaldamage.fr^
@@ -5109,8 +5034,8 @@
 ||mini-putt.org^
 ||mini001.com^
 ||miniclip-club.com^
-||miniclip.com^
 ||miniclip.com.ro^
+||miniclip.com^
 ||miniclip.lx.ro^
 ||miniclip.ro^
 ||miniclip.se^
@@ -5464,8 +5389,8 @@
 ||nicajuegos.com^
 ||nicajuegos.net^
 ||nick.co.uk^
-||nick.com^
 ||nick.com.au^
+||nick.com^
 ||nicoland.be^
 ||nicoland.com^
 ||nicoland.fr^
@@ -6182,7 +6107,6 @@
 ||pokertexasomaha.com^
 ||pokertodo.com^
 ||pokeyplay.com^
-!||poki.com^
 ||poki.com.br^
 ||poki.de^
 ||poki.it^
@@ -6331,8 +6255,8 @@
 ||puzzlenest.com^
 ||puzzlepirates.com^
 ||puzzles-fr.com^
-||puzzles.com^
 ||puzzles.com.br^
+||puzzles.com^
 ||puzzletfactory.com^
 ||puzzletime.free.fr^
 ||pybem.sourceforge.net^
@@ -6875,12 +6799,13 @@
 ||solar-empire.net^
 ||solarempire.fuoriradio.com^
 ||soleau.com^
+||solitair.ee^
 ||solitairebliss.com^
 ||solitaired.com^
 ||solitaireparadise.com^
 ||solitr.com^
-||solojuegos.com^
 ||solojuegos.com.mx^
+||solojuegos.com^
 ||solojuegos.net^
 ||solojuegosxp.com^
 ||solomario.com^
@@ -6986,8 +6911,8 @@
 ||spielen.com^
 ||spielen.de^
 ||spielepsychatrie.de^
-||spieletipps.de^
 ||spieletipps.de.intellitxt.com^
+||spieletipps.de^
 ||spielex.net^
 ||spielkarussell.de^
 ||spielnet.de^
@@ -7108,8 +7033,8 @@
 ||steamgifts.com^
 ||steamgm.com^
 ||steamhunters.com^
-||steamid.co^
 ||steamid.co.uk^
+||steamid.co^
 ||steamidfinder.com^
 ||steamidlemaster.com^
 ||steamkiwi.com^
@@ -7260,6 +7185,7 @@
 ||sydlexia.com^
 ||syfaria.com^
 ||sylvaniah.com^
+||symbaloo.com^
 ||symuon.com^
 ||synoree.com^
 ||systemwars.com^
@@ -7278,8 +7204,8 @@
 ||tagoria.com^
 ||tagoria.net^
 ||tagpro.gg^
-||taikodom.com^
 ||taikodom.com.br^
+||taikodom.com^
 ||talesofmagic.fr^
 ||tamabal.free.fr^
 ||tamagoqi.com^
@@ -7592,10 +7518,10 @@
 ||transbuddha.com^
 ||transience.com.au^
 ||travian.cl^
-||travian.com^
 ||travian.com.ar^
 ||travian.com.br^
 ||travian.com.mx^
+||travian.com^
 ||travian.de^
 ||travian.fr^
 ||travian.net^
@@ -7669,6 +7595,7 @@
 ||turbojuegos.info^
 ||turbonuke.com^
 ||turbotanks.com^
+||turbowarp.org^
 ||turf-fr.com^
 ||turf-pronostics.com^
 ||turnarcade.com^
@@ -7762,6 +7689,7 @@
 ||usunblock.host^
 ||uvscg.free.fr^
 ||uweb.webzzanine.net^
+||uwufufu.com^
 ||uzinagaz.com^
 ||v-schlachtfeld.net^
 ||v2w.org^
@@ -7827,8 +7755,8 @@
 ||videogiochiamo.it^
 ||videojuegoblog.com^
 ||videojuegos.adnstream.tv^
-||videojuegos.com^
 ||videojuegos.com.ve^
+||videojuegos.com^
 ||videojuegos.hey.es^
 ||videojuegos.idoneos.com^
 ||videojuegos.mundodescargas.com^
@@ -7938,6 +7866,7 @@
 ||warpdriven.com^
 ||warriorgeneral.com^
 ||warriorsofaeldul.free.fr^
+||warsow.net^
 ||warspark.com^
 ||warthunder.com^
 ||watch32.be^
@@ -7947,6 +7876,7 @@
 ||watchanimevideo.com^
 ||watchbreakingbadonline.com^
 ||watchcartoonsonline.eu^
+||watchdocumentaries.com^
 ||watchepisodes.immunicity.world^
 ||watchepisodes.usbypass.faith^
 ||watchepisodes.usbypass.men^
@@ -8357,5 +8287,25 @@
 ||zyngapoker.com^
 ||zyraffa.pl^
 ||zzstudios.com^
+
+# — ULTRA SCHOOL BLOCK
+||*.github.io^
+||cloudflarepages.dev^
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||github.io^
+||kick.com^
+||netlify.app^
+||repl.co^
+||replit.app^
+||sites.google.com^
+||trovo.live^
+||ttvnw.net^
+||twitch.tv^
+||vercel.app^
+
+
+
 
 
