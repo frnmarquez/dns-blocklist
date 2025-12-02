@@ -27,6 +27,7 @@
 
 ||addictinggames.com^
 ||armorgames.com^
+||blipzi.com^
 ||coolmathgames.com^
 ||crazygames.com^
 ||dev.gx.games^
@@ -8312,6 +8313,7 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+
 
 
 
