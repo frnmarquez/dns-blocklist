@@ -94,6 +94,14 @@
 ||primevideo.com^
 ||cloudfront.net^
 
+# Flow - Telecentro - DirecTV - Movistar
+||telecentroplay.com.ar^
+||tv.movistar.com.ar^
+||directvgo.com^
+||flow.com^
+||flow.com.ar^
+||portal.app.flow.com.ar^
+
 # Disney+
 ||bamgrid.com^
 ||disneyplus.com^
@@ -193,7 +201,7 @@
 ||nhlstatic.com^
 ||turner.com^
 ||espnplayer.com^
-||directvgo.com^
+
 
 ! =====================================================================
 ! 5) STREAMING INTERNACIONAL (Hulu, Roku, BBC, etc.)
@@ -225,6 +233,16 @@
 # Samsung TV+
 ||samsungcloud.tv^
 ||samsungtvplus.com^
+
+#Streamz
+||lfvp-ios-api.dpgmedia.net^
+||videoplayer-service.dpgmedia.net^
+||drm.mp.lura.live^
+||video-scrub-images.persgroep.be^
+||dcs-vod.mp.lura.live^
+||lfvp-api.dpgmedia.net^
+||video-od.dpgmedia.net^
+||images3.persgroep.net^
 
 # LG Channels
 ||lgappstv.com^
