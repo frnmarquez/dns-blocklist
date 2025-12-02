@@ -169,6 +169,7 @@
 ||popcorntime.sh^
 
 # Cuevana / clones
+||cuevana.*^
 ||cuevana.biz^
 ||cuevana2.com^
 ||cuevana3.com^
@@ -298,3 +299,13 @@
 ||edgesuite.net^
 ||fastly.net^
 ||llnwd.net^
+
+! =====================================================================
+! 8) REGEX AVANZADO PARA BLOQUEAR TODAS LAS VARIANTES (Pi-hole)
+! =====================================================================
+
+/(^|\.)cuevana.*$/
+/(^|\.)pelisplus.*$/
+/(^|\.)gnula.*$/
+/(^|\.)repelis.*$/
+/(^|\.)stremio.*$/
