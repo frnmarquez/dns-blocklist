@@ -29,9 +29,11 @@
 ||armorgames.com^
 ||coolmathgames.com^
 ||crazygames.com^
+||dev.gx.games^
 ||friv.com^
 ||frivclassic.com^
 ||gameflare.com^
+||gx.games^
 ||isladejuegos.com^
 ||kizi-mizi.com^
 ||kizi.com^
@@ -8310,6 +8312,7 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+
 
 
 
