@@ -1,0 +1,281 @@
+! =====================================================================
+! 1) IPTV PIRATA (MagisTV, Smarters, TiviMate, etc.)
+! =====================================================================
+
+||goldiptv.*^
+||iptvlatino.com^
+||iptvsmarters.com^
+||iptvsmarterspro.*^
+||latino-iptv.com^
+||latinoiptv.*^
+||magis.tv^
+||magistv.com^
+||magistv.*^
+||magisplay.*^
+||megatv.com^
+||megatvhd.*^
+||premiumiptv.*^
+||smarterspro.*^
+||superiptv.*^
+||tivimate.*^
+||xdmiptv.com^
+
+! =====================================================================
+! 2) STREAMING PIRATA DEPORTIVO (Fútbol, deportes, IPTV online)
+! =====================================================================
+
+||buffstreams.*^
+||cr7net.*^
+||crackstreams.*^
+||daddylive.*^
+||daddylivehd.*^
+||dofutbolhd.*^
+||envivofutbol.*^
+||espngratis.*^
+||footybite.*^
+||fullfutbol.*^
+||futbol-libre.*^
+||futbolenvivo.*^
+||futbolenvivogratis.com^
+||futbolfull.*^
+||futbolparatodos.*^
+||futbolpremium.*^
+||futbollibre.net^
+||futbollibre.tv^
+||futbollibree.*^
+||futbollibretv.net^
+||futbollibretvhd.com^
+||jokerlivestream.*^
+||librefutbol.*^
+||librefutbolparatodos.*^
+||livetv.sx^
+||livehd.*^
+||livehd7.*^
+||mamahd.*^
+||p1rata.tv^
+||pirlotv.*^
+||pirlotvlive.*^
+||rojabet.*^
+||rojadirecta.*^
+||rojadirectaenvivo.*^
+||rojadirectatv.*^
+||sportsurge.*^
+||sportlemon.*^
+||stream2watch.*^
+||strims.gg^
+||strims.top^
+||tarjetaroja.*^
+||tarjetarojaenvivo.*^
+||tarjetarojaonline.*^
+||tarjetarojatv.*^
+||tudortv.*^
+||vipleague.*^
+||vipleague.lc^
+||vipleague.tv^
+||weakstreams.*^
+
+! =====================================================================
+! 3) STREAMING COMERCIAL (Netflix, Disney, Prime, HBO…)
+! =====================================================================
+
+# Netflix
+||fast.com^
+||netflix.com^
+||nflxext.com^
+||nflximg.com^
+||nflximg.net^
+||nflxso.net^
+||nflxvideo.net^
+
+# Amazon Prime Video
+||aiv-cdn.net^
+||amazonvideo.com^
+||media-amazon.com^
+||primevideo.com^
+||cloudfront.net^
+
+# Disney+
+||bamgrid.com^
+||disneyplus.com^
+||dssott.com^
+
+# Star+
+||starott.com^
+||starplus.com^
+
+# HBO Max / Max
+||bamtech-media.video^
+||hbomax.com^
+||hbomaxcdn.com^
+||max.com^
+
+# Apple TV+
+||apple-dns.net^
+||itunes.apple.com^
+||mzstatic.com^
+||tv.apple.com^
+
+# Paramount+
+||cbs.com^
+||cbsstatic.com^
+||cbsi.com^
+||paramountplus.com^
+
+# Peacock
+||cdn.peacocktv.com^
+||peacocktv.com^
+
+# Rakuten TV
+||rakuten-static.com^
+||rakuten.tv^
+
+# Crunchyroll / VRV
+||crunchyroll.com^
+||crunchyrollsvc.com^
+||vrv.co^
+
+# Funimation
+||funimation.com^
+||funimationcdn.com^
+
+# Plex
+||plex.direct^
+||plex.tv^
+
+# Pluto TV
+||pluto.tv^
+||plutotv.net^
+
+# Tubi
+||tubi.video^
+||tubitv.com^
+
+# Kodi Metadata
+||omdbapi.com^
+||themoviedb.org^
+||thetvdb.com^
+
+# PopcornTime forks
+||pct.fyi^
+||popcorntime.app^
+||popcorntime.sh^
+
+# Cuevana / clones
+||cuevana.biz^
+||cuevana2.com^
+||cuevana3.com^
+||gnula.*^
+||pelisplus.*^
+||repelis.*^
+
+! =====================================================================
+! 4) STREAMING DEPORTIVO OFICIAL (ESPN, DAZN, TNT, NBA…)
+! =====================================================================
+
+||espn.com^
+||espn.go.com^
+||espncdn.com^
+||dazn-api.com^
+||dazn-content.com^
+||dazn.com^
+||dcblivedazn.akamaized.net^
+||foxtsports.com^
+||foxsports.com^
+||foxsportsgo.com^
+||tntsports.com^
+||mlb.com^
+||mlbstatic.com^
+||nba.com^
+||neulion.com^
+||nfl.com^
+||nflxneulion.com^
+||nhl.com^
+||nhlstatic.com^
+||turner.com^
+||espnplayer.com^
+
+! =====================================================================
+! 5) STREAMING INTERNACIONAL (Hulu, Roku, BBC, etc.)
+! =====================================================================
+
+# Hulu
+||hulu.com^
+||huluim.com^
+||hulustream.com^
+
+# Discovery / Eurosport
+||discoveryplus.com^
+||eurosportplayer.com^
+
+# ITV / BBC (UK)
+||bbc.co.uk^
+||bbci.co.uk^
+||itv.com^
+
+# Channel 4
+||c4assets.com^
+||channel4.com^
+
+# Roku
+||roku.com^
+||rokuapps.com^
+||rokucontentdelivery.net^
+
+# Samsung TV+
+||samsungcloud.tv^
+||samsungtvplus.com^
+
+# LG Channels
+||lgappstv.com^
+||lge.com^
+
+# Viki
+||viki.com^
+
+# RedBull TV
+||rbmediaglobal-a.akamaized.net^
+||redbull.tv^
+
+! =====================================================================
+! 6) STREMIO (plataforma + addons + metadatos)
+! =====================================================================
+
+||addons.strem.io^
+||api.strem.io^
+||api9.strem.io^
+||app.strem.io^
+||catalogue.strem.io^
+||cdn.strem.io^
+||opensubtitles.com^
+||opensubtitles.org^
+||strem.io^
+||stremio.com^
+||stremio.net^
+||stremio.org^
+||stremio-addons.com^
+||stremioaddons.club^
+||stremioaddons.net^
+||stremioaddons.org^
+||stremioaddons.xyz^
+||stremiohd.com^
+||stremios.com^
+||streamio.app^
+||streamio.net^
+||streamio.tv^
+||tmdb.org^
+||themoviedb.org^
+||torrentio.strem.fun^
+||torrentio.stremapi.com^
+||torrentio.wave.video^
+||web.strem.io^
+
+! =====================================================================
+! 7) CDNs USADOS POR STREAMING (modo agresivo)
+! =====================================================================
+
+||akamaized.net^
+||akamai.net^
+||edgekey.net^
+||edgesuite.net^
+||fastly.net^
+||llnwd.net^
