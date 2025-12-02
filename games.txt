@@ -70,6 +70,28 @@
 ||rbxcdn.com^
 ||riotgamespatcher-a.akamaihd.net^
 ||roblox.com^
+||golden.roblox.com^
+||us-central-bd2.roblox.com^
+||realtime.roblox.com^
+||gold.roblox.com^
+||inventory.roblox.com^
+||economy.roblox.com^
+||games.roblox.com^
+||assetgame.roblox.com^
+||presence.roblox.com^
+||clientsettingscdn.roblox.com^
+||ephemeralcounters.api.roblox.com^
+||thumbnails.roblox.com^
+||assetdelivery.roblox.com^
+||client-telemetry.roblox.com^
+||ecsv2.roblox.com^
+||groups.roblox.com^
+||gameinternationalization.roblox.com^
+||gamejoin.roblox.com^
+||badges.roblox.com^
+||followings.roblox.com^
+||voice.roblox.com^
+||contacts.roblox.com^
 ||rockstargames.com^
 ||ubisoft-uplay-savegames.s3.amazonaws.com^
 
@@ -8313,6 +8335,7 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+
 
 
 
