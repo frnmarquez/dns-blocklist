@@ -2,6 +2,27 @@
 ! 1) ARGENTINA – PORTALES DE NOTICIAS
 ! =====================================================================
 ||miperiodico.com.ar^
+||primerplanoonline.com.ar^
+||laizquierdadiario.com^
+||semanarioactualidad.com.ar^
+||criterioonline.com^
+||eldiaonline.com^
+||enlineanoticias.com.ar^
+||misionescuatro.com^
+||elfundadoronline.com^
+||bibletoday.com^
+||anroca.com.ar^
+||verte.tv^
+||libertaddigital.com^
+||el1digital.com.ar^
+||todojujuy.com^
+||elnueve.com.ar^
+||oberaonline.com.ar^
+||rivadaviaonline.com.ar^
+||cndigital.com.ar^
+||canal12web.com^
+||eldial.com^
+||eltermometroweb.com^
 ||rosarionoticias.gob.ar^
 ||agenciasanluis.com^
 ||vaticannews.va^
