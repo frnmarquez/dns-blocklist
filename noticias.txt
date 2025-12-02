@@ -2,6 +2,7 @@
 ! 1) ARGENTINA – PORTALES DE NOTICIAS
 ! =====================================================================
 ||miperiodico.com.ar^
+||rosarionoticias.gob.ar^
 ||agenciasanluis.com^
 ||vaticannews.va^
 ||chaco.gob.ar^
