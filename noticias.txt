@@ -1,8 +1,29 @@
 ! =====================================================================
 ! 1) ARGENTINA – PORTALES DE NOTICIAS
 ! =====================================================================
-
-||ambito.com^
+||miperiodico.com.ar^
+||vaticannews.va^
+||chaco.gob.ar^
+||laprensa.com.ar^
+||corta.com^
+||noticias.santacruz.gob.ar^
+||noticiasnet.com.ar^
+||hoydia.com.ar^
+||news.google.com^
+||eldoce.tv^
+||campananoticias.com^
+||eltucumano.com^
+||eldiarionuevodia.com.ar^
+||noticias.mitelefe.com^
+||derechadiario.com.ar^
+||anbariloche.com.ar^
+||viapais.com.ar^
+||noticiasnqn.com.ar^
+||qpaso.ar^
+||ahora.com.ar^
+||rafaelanoticias.com^
+||mendozapost.com^
+||ambito.com^^
 ||baenegocios.com^
 ||clarin.com^
 ||cronica.com.ar^
@@ -216,6 +237,7 @@
 ||folha.uol.com.br^
 ||oglobo.globo.com^
 ||estadao.com.br^
+||noticias.yahoo.com^
 
 ! =====================================================================
 ! 6) INTERNACIONALES EN INGLÉS (GENERAL)
