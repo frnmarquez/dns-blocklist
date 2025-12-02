@@ -1,6 +1,6 @@
 ! Title: Custom School Gaming Blocklist
 ! Description: Lista personalizada + pública para bloquear juegos online en una escuela / red educativa
-! Version: 2025.12.01
+! Version: 2025.12.02
 ! Syntax: Pi-Hole
 ! Number of entries:
 
@@ -8335,6 +8335,7 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+
 
 
 
