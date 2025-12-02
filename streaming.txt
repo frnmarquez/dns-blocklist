@@ -193,6 +193,7 @@
 ||nhlstatic.com^
 ||turner.com^
 ||espnplayer.com^
+||directvgo.com^
 
 ! =====================================================================
 ! 5) STREAMING INTERNACIONAL (Hulu, Roku, BBC, etc.)
