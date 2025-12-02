@@ -10,7 +10,7 @@
 ||bonk.io^
 ||diep.io^
 ||ev.io^
-||hole.io^
+||hole.io
 ||krunker.io^
 ||mope.io^
 ||paper.io^
@@ -7639,7 +7639,6 @@
 ||twilightus.net^
 ||twins.net^
 ||twitch.com^
-||twitch.tv^
 ||twizl.com^
 ||tycoononline.nu^
 ||tynker.com^
@@ -8335,6 +8334,10 @@
 ||ttvnw.net^
 ||twitch.tv^
 ||vercel.app^
+||ttvnw.net^
+||jtvnw.net^
+||twitchcdn.net^
+
 
 
 
