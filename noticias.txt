@@ -46,7 +46,7 @@
 ||ahora.com.ar^
 ||rafaelanoticias.com^
 ||mendozapost.com^
-||ambito.com^^
+||ambito.com^
 ||baenegocios.com^
 ||clarin.com^
 ||cronica.com.ar^
