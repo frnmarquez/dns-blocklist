@@ -232,7 +232,7 @@
 ||europapress.es^
 ||efe.com^
 ||rtve.es^
-||bbc.com/mundo^
+||bbc.com^
 ||cnnespanol.cnn.com^
 ||actualidad.rt.com^
 ||dw.com^
