@@ -29,16 +29,19 @@
 ||armorgames.com^
 ||blipzi.com^
 ||coolmathgames.com^
+||cokitos.com^
 ||crazygames.com^
 ||dev.gx.games^
 ||friv.com^
 ||frivclassic.com^
+||fr9.es^
 ||gameflare.com^
 ||gx.games^
 ||isladejuegos.com^
 ||kizi-mizi.com^
 ||kizi.com^
 ||lagged.com^
+||ludoteka.com^
 ||minijuegos.com^
 ||minijuegos.mx^
 ||nick.co.uk^
@@ -8337,6 +8340,7 @@
 ||ttvnw.net^
 ||jtvnw.net^
 ||twitchcdn.net^
+
 
 
 
