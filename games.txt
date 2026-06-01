@@ -2457,6 +2457,7 @@
 ||friv.org^
 ||friv1000.net^
 ||friv100jogos.com^
+||friv2online.com^
 ||friv2.org^
 ||friv2.sk^
 ||friv2016.info^
@@ -6141,6 +6142,11 @@
 ||pokertexasomaha.com^
 ||pokertodo.com^
 ||pokeyplay.com^
+||poki.co^
+||poki.co.com^
+||poki.es^
+||poki.ar^
+||poki.br^
 ||poki.com.br^
 ||poki.de^
 ||poki.it^
@@ -6632,6 +6638,7 @@
 ||seantcooper.com^
 ||searchamateur.com^
 ||searchlock.com^
+||seagames.com^
 ||seashadows.org^
 ||secondfiction.com^
 ||secondlife.com^
